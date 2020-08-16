@@ -1,0 +1,70 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-08-16T04:47:54.115Z",
+        "line": 20,
+        "name": "",
+        "description": "",
+        "id": "to-test-the-addplaceapi;",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "java.lang.IllegalArgumentException: Specification to merge with cannot be null\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.invoke(CachedConstructor.java:72)\r\n\tat org.codehaus.groovy.reflection.CachedConstructor.doConstructorInvoke(CachedConstructor.java:59)\r\n\tat org.codehaus.groovy.runtime.callsite.ConstructorSite$ConstructorSiteNoUnwrap.callConstructor(ConstructorSite.java:84)\r\n\tat org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallConstructor(CallSiteArray.java:59)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:263)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callConstructor(AbstractCallSite.java:277)\r\n\tat io.restassured.internal.common.assertion.AssertParameter.notNull(AssertParameter.groovy:26)\r\n\tat io.restassured.internal.common.assertion.AssertParameter$notNull.callStatic(Unknown Source)\r\n\tat org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCallStatic(CallSiteArray.java:55)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callStatic(AbstractCallSite.java:217)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.callStatic(AbstractCallSite.java:240)\r\n\tat io.restassured.internal.SpecificationMerger.merge(SpecificationMerger.groovy:92)\r\n\tat io.restassured.internal.SpecificationMerger$merge.call(Unknown Source)\r\n\tat org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:47)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:125)\r\n\tat org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:148)\r\n\tat io.restassured.internal.RequestSpecificationImpl.spec(RequestSpecificationImpl.groovy:918)\r\n\tat StepDefination.StepDefination.user_calls_the_api_with_providing_all_details(StepDefination.java:100)\r\n\tat ✽.user calls the api with providing all details(file:///C:/Users/(-_-)RhYtHm(o_0)/workspace1/APIFramework/src/test/java/Feature/api.feature:22)\r\n",
+              "duration": 800000000,
+              "status": "failed"
+            },
+            "line": 22,
+            "name": "user calls the api with providing all details",
+            "match": {
+              "location": "StepDefination.StepDefination.user_calls_the_api_with_providing_all_details()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "user hits the API",
+            "match": {
+              "location": "StepDefination.StepDefination.user_hits_the_api()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 24,
+            "name": "Message \"Successful\" should get displayed",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Successful",
+                  "offset": 9
+                }
+              ],
+              "location": "StepDefination.StepDefination.message_something_should_get_displayed(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@DeletePlaceAPI"
+          }
+        ]
+      }
+    ],
+    "name": "To test the ADDPlaceAPI",
+    "description": "",
+    "id": "to-test-the-addplaceapi",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/Feature/api.feature",
+    "tags": []
+  }
+]

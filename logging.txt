@@ -1,0 +1,484 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "Rishilok Colony",
+    "language": "English,Hindi and Garhwali",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Rahul Raturi",
+    "phone_number": "8958216454",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "rahul.raturi13091995@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:21 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "c869a547bb248ef702cae8076f523de9",
+    "scope": "APP",
+    "reference": "149761466084819d94397ece4582c13e149761466084819d94397ece4582c13e",
+    "id": "149761466084819d94397ece4582c13e"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "Rishilok Colony",
+    "language": "English,Hindi and Garhwali",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Rahul Raturi",
+    "phone_number": "8958216454",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "rahul.raturi13091995@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:22 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "f8600e02d1152aaedf800ccd81857490",
+    "scope": "APP",
+    "reference": "e1c7eac819e75168bd71edbfd5951d8be1c7eac819e75168bd71edbfd5951d8b",
+    "id": "e1c7eac819e75168bd71edbfd5951d8b"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "Rishilok Colony",
+    "language": "English,Hindi and Garhwali",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Rahul Raturi",
+    "phone_number": "8958216454",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "rahul.raturi13091995@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:22 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "85ef3f179011451492bc2eccacc50e19",
+    "scope": "APP",
+    "reference": "ae0c392da6a872a7426b75fca8adb735ae0c392da6a872a7426b75fca8adb735",
+    "id": "ae0c392da6a872a7426b75fca8adb735"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "Rishilok Colony",
+    "language": "English,Hindi and Garhwali",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Rahul Raturi",
+    "phone_number": "8958216454",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "rahul.raturi13091995@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:24 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "03f7e2991007f7912306b908912b6414",
+    "scope": "APP",
+    "reference": "69eefbe060cf8289c0f99744b6c13a9069eefbe060cf8289c0f99744b6c13a90",
+    "id": "69eefbe060cf8289c0f99744b6c13a90"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=03f7e2991007f7912306b908912b6414
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=03f7e2991007f7912306b908912b6414
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "Rishilok Colony",
+    "language": "English,Hindi and Garhwali",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Rahul Raturi",
+    "phone_number": "8958216454",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "rahul.raturi13091995@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:24 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 258
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-656.255",
+        "longitude": "-663.55"
+    },
+    "accuracy": "55",
+    "name": "Rahul Raturi",
+    "phone_number": "8958216454",
+    "address": "Rishilok Colony",
+    "types": "Mochi,Chochi",
+    "website": "rahul.raturi13091995@gmail.com",
+    "language": "English,Hindi and Garhwali"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "15 Nehru Marg Ashutosh Nagar,Rishikesh",
+    "language": "English,Hindi",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Ishita Pandey",
+    "phone_number": "9044445685",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "pandeyishita70@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "a8884178810a821b9d45d804cec4baf8",
+    "scope": "APP",
+    "reference": "d017a528423dac11b28b9aff6f058a0ed017a528423dac11b28b9aff6f058a0e",
+    "id": "d017a528423dac11b28b9aff6f058a0e"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "15 Nehru Marg Ashutosh Nagar,Rishikesh",
+    "language": "English,Hindi",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Ishita Pandey",
+    "phone_number": "9044445685",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "pandeyishita70@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "68f71c25177c81f88d65cef48fb4063e",
+    "scope": "APP",
+    "reference": "0b4537b2acdd2cbe8f6f6b081ede55700b4537b2acdd2cbe8f6f6b081ede5570",
+    "id": "0b4537b2acdd2cbe8f6f6b081ede5570"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "15 Nehru Marg Ashutosh Nagar,Rishikesh",
+    "language": "English,Hindi",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Ishita Pandey",
+    "phone_number": "9044445685",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "pandeyishita70@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:26 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "c1b33d08b811825c4220f988b9ca2eb8",
+    "scope": "APP",
+    "reference": "35c49dec2357e9ea47bc7a482cfa776335c49dec2357e9ea47bc7a482cfa7763",
+    "id": "35c49dec2357e9ea47bc7a482cfa7763"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "15 Nehru Marg Ashutosh Nagar,Rishikesh",
+    "language": "English,Hindi",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Ishita Pandey",
+    "phone_number": "9044445685",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "pandeyishita70@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "8ac09ad5dd7c768bd26769b075233968",
+    "scope": "APP",
+    "reference": "3caf4c2a6fae40c9d6ea2a9f233405dc3caf4c2a6fae40c9d6ea2a9f233405dc",
+    "id": "3caf4c2a6fae40c9d6ea2a9f233405dc"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=8ac09ad5dd7c768bd26769b075233968
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=8ac09ad5dd7c768bd26769b075233968
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": 55,
+    "address": "15 Nehru Marg Ashutosh Nagar,Rishikesh",
+    "language": "English,Hindi",
+    "location": {
+        "lat": -656.255,
+        "lng": -663.55
+    },
+    "name": "Ishita Pandey",
+    "phone_number": "9044445685",
+    "types": [
+        "Mochi",
+        "Chochi"
+    ],
+    "website": "pandeyishita70@gmail.com"
+}
+HTTP/1.1 200 OK
+Date: Sun, 16 Aug 2020 04:47:27 GMT
+Server: Apache/2.4.18 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 263
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-656.255",
+        "longitude": "-663.55"
+    },
+    "accuracy": "55",
+    "name": "Ishita Pandey",
+    "phone_number": "9044445685",
+    "address": "15 Nehru Marg Ashutosh Nagar,Rishikesh",
+    "types": "Mochi,Chochi",
+    "website": "pandeyishita70@gmail.com",
+    "language": "English,Hindi"
+}

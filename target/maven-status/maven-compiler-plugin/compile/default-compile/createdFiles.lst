@@ -1,0 +1,8 @@
+EnumConstants\GlobalEnum.class
+Deserialization\GetAddPlaceAllObjects.class
+GlobalProp\GlobalProperties.class
+Serialization\SetAddPlaceLocation.class
+GlobalDeleteBody\OverallDelete.class
+GlobalDeleteBody\DeleteBody.class
+Serialization\SetAddPlaceAllObjects.class
+GlobalSerialization\Serialize.class

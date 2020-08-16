@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.173 s <<< FAILURE! - in TestRunner.TestRunner
+To test the ADDPlaceAPI.EMPTY_NAME  Time elapsed: 1.404 s  <<< ERROR!
+java.lang.IllegalArgumentException: Specification to merge with cannot be null
+
